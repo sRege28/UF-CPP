@@ -1,6 +1,11 @@
 # UF-Coding/Programming Practice
 UF-CPP is a self organized small size coding practice Meetup. This repository holds the coding challenges in every Meetup as a resource for future reference. More info about the group can be found in our [Facebook Page](https://www.facebook.com/groups/453423804992985/). For every question commit/merge to the repository, you should put the [README template file](./q_template.md) in the question/problem folder as a README file, rename it to README.md using command `cp q_template.md path_to_q_folder/README.md`. You can also use the python script to help you do the previous step with command `python3 q_template.md -n "question name"`.
 
+### M022 (08/09/2017): Dynamic Programming.
+* [Split Array into Consecutive Subsequences](./Split%20Array%20into%20Consecutive%20Subsequences)
+* [Find K Closest Elements](./Find%20K%20Closest%20Elements)
+* [Decode Ways](./Decode%20Ways)
+
 ### QA008 (08/11/2017): DP
 * [Create Maximum Number](./Create%20Maximum%20Number)
 * [Palindromic Substrings](./Palindromic%20Substrings)
