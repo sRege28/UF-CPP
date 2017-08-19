@@ -57,8 +57,7 @@ if __name__ == '__main__':
                 line = line.replace('qxxx', ('' + problem_id).zfill(3))
 
             data[line_num] = line
-            del data[line_num - 2]
-            del data[8 - 1]
+            del data[line_num - 1] # delete the 'from CCI page xxx' line, all following lines will reduce number by 1
 
         line_num += 1
 
