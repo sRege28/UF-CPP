@@ -6,7 +6,7 @@ Tags: ___Easy___, ___Medium___, ___Hard___, ___DP___, ___Tree___, ___BFS___, ___
 If you want, you can put a brief Intro to the question.
 
 ## Source
-brief intro to the source of this question. e.g.,
+[comment]: <> (brief intro to the source of this question. e.g.,)
 * from CCI page xxxx.
 * from [leetcode qxxx](https://www.google.com)
 
