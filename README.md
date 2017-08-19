@@ -1,6 +1,11 @@
 # UF-Coding/Programming Practice
 UF-CPP is a self organized small size coding practice Meetup. This repository holds the coding challenges in every Meetup as a resource for future reference. More info about the group can be found in our [Facebook Page](https://www.facebook.com/groups/453423804992985/). For every question commit/merge to the repository, you should put the [README template file](./q_template.md) in the question/problem folder as a README file, rename it to README.md using command `cp q_template.md path_to_q_folder/README.md`. You can also use the python script to help you do the previous step with command `python3 q_template.md -n "question name"`.
 
+### M025 (08/18/2017):
+* [Pascal's Triangle](./Pascal's Triangle)
+* [Pascal's Triangle II](./Pascal's Triangle II)
+* [Gray Code](./Gray Code)
+
 ### M024 (08/16/2017):
 * [Nth Digit](./Nth%20Digit)
 * [Best Time to Buy and Sell Stock](./Best%20Time%20to%20Buy%20and%20Sell%20Stock)
