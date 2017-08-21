@@ -16,14 +16,4 @@ Could you optimize your algorithm to use only _O(k)_ extra space?
 * from [leetcode 118](https://leetcode.com/problems/pascals-triangle-ii)
 
 ## Complexity/Analysis
-The optimal solution can achieve ___O(N)___ time and ___O(N)___ space. Or another solution and achieve xxxxxxx.
-
-## Notes
-The possible corner case includes
-* xxxxxxx
-* xxxxxxx
-* .....
-
-Using xxx will result stack overflow. xxxxxxx
-
-You can also add the guidance for how to use the test cases.
+The solution can achieve ___O(N^2)___ time and ___O(N)___ space.
