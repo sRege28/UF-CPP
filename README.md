@@ -1,10 +1,22 @@
 # UF-Coding/Programming Practice
 UF-CPP is a self organized small size coding practice Meetup. This repository holds the coding challenges in every Meetup as a resource for future reference. More info about the group can be found in our [Facebook Page](https://www.facebook.com/groups/453423804992985/). For every question commit/merge to the repository, you should put the [README template file](./q_template.md) in the question/problem folder as a README file, rename it to README.md using command `cp q_template.md path_to_q_folder/README.md`. You can also use the python script to help you do the previous step with command `python3 q_template.md -n "question name"`.
 
+### M027 (08/30/2017): Microsoft
+* [Laundry Pipeline](./Laundry%20Pipeline)
+* [Pokemon Go](./Pokemon%20Go)
+* [Computer Infestation](./Computer%20Infestation)
+* [Packing It Up](./Packing%20It%20Up)
+* [Set Matrix Zeroes](./Set%20Matrix%20Zeroes)
+
+### M026 (08/28/2017): Amazon
+* [Complex Number Multiplication](./Complex%20Number%20Multiplication)
+* [Optimal Division](./Optimal%20Division)
+* [Multiplication Table(12by12)](./Multiplication%20Table(12by12))
+
 ### M025 (08/18/2017):
-* [Pascal's Triangle](./Pascal's Triangle)
-* [Pascal's Triangle II](./Pascal's Triangle II)
-* [Gray Code](./Gray Code)
+* [Pascal's Triangle](./Pascal's%20Triangle)
+* [Pascal's Triangle II](./Pascal's%20Triangle%20II)
+* [Gray Code](./Gray%20Code)
 
 ### M024 (08/16/2017):
 * [Nth Digit](./Nth%20Digit)
