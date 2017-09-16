@@ -1,6 +1,20 @@
 # UF-Coding/Programming Practice
 UF-CPP is a self organized small size coding practice Meetup. This repository holds the coding challenges in every Meetup as a resource for future reference. More info about the group can be found in our [Facebook Page](https://www.facebook.com/groups/453423804992985/). For every question commit/merge to the repository, you should put the [README template file](./q_template.md) in the question/problem folder as a README file, rename it to README.md using command `cp q_template.md path_to_q_folder/README.md`. You can also use the python script to help you do the previous step with command `python3 q_template.md -n "question name"`.
 
+### M029&30 (09/15/2017):
+* [Median of Two Sorted Arrays](./Median%20of%20Two%20Sorted%20Arrays)
+* [Rotate Array](./Rotate%20Array)
+* [Longest Continuous Increasing Subsequence](./Longest%20Continuous%20Increasing%20Subsequence)
+* [Longest Uncommon Subsequence I](./Longest%20Uncommon%20Subsequence%20I)
+* [Roman to Integer](./Roman%20to%20Integer)
+* [Add String](./Add%20String)
+* [Merge k Sorted Lists](./Merge%20k%20Sorted%20Lists)
+
+### M028 (09/06/2017):
+* [LRU Cache](./LRU%20Cache)
+* [Compare Version Numbers](./Compare%20Version%20Numbers)
+* [Dungeon Game](./Dungeon%20Game)
+
 ### M027 (08/30/2017): Microsoft
 * [Laundry Pipeline](./Laundry%20Pipeline)
 * [Pokemon Go](./Pokemon%20Go)
