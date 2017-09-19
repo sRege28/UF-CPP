@@ -1,6 +1,11 @@
 # UF-Coding/Programming Practice
 UF-CPP is a self organized small size coding practice Meetup. This repository holds the coding challenges in every Meetup as a resource for future reference. More info about the group can be found in our [Facebook Page](https://www.facebook.com/groups/453423804992985/). For every question commit/merge to the repository, you should put the [README template file](./q_template.md) in the question/problem folder as a README file, rename it to README.md using command `cp q_template.md path_to_q_folder/README.md`. You can also use the python script to help you do the previous step with command `python3 q_template.md -n "question name"`.
 
+### M031 (09/18/2017):
+* [First Unique Character in a String](./First%20Unique%20Character%20in%20a%20String)
+* [Implement Trie (Prefix Tree)](./Implement%20Trie%20(Prefix%20Tree))
+* [Pow(x,n)](./Pow(x,n))
+
 ### M030 (09/15/2017):
 * [Median of Two Sorted Arrays](./Median%20of%20Two%20Sorted%20Arrays)
 * [Rotate Array](./Rotate%20Array)
