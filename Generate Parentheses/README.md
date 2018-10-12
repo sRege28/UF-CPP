@@ -1,14 +1,23 @@
 [comment]: <> (This is a comment, it will not be included. For every question commit to the repository, you should put this readme file in the question/problem folder as a readme file, rename it to README.md)
 
-# Brief Intro
-Tags: ___Easy___, ___Medium___, ___Hard___, ___DP___, ___Tree___, ___BFS___, ___DFS___, ___Backtracking___, ___System Design___, ___Bit Manipulation___
+##  Generate Parentheses
+Tags: ___String___, ___Medium___, ___Backtracking___
 
-If you want, you can put a brief Intro to the question.
+Given _n_ pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
+e.g.: given `n = 3`, a solution set is:
+```
+[
+  "((()))",
+  "(()())",
+  "(())()",
+  "()(())",
+  "()()()"
+]
+```
 
 ## Source
-[comment]: <> (brief intro to the source of this question. e.g.,)
-* from CCI page xxxx.
-* from [leetcode qxxx](https://www.google.com)
+* from [leetcode q022](https://leetcode.com/problems/generate-parentheses "Generate Parentheses")
 
 ## Complexity/Analysis
 The optimal solution can achieve ___O(N)___ time and ___O(N)___ space. Or another solution and achieve xxxxxxx.

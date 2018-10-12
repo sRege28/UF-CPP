@@ -1,14 +1,24 @@
 [comment]: <> (This is a comment, it will not be included. For every question commit to the repository, you should put this readme file in the question/problem folder as a readme file, rename it to README.md)
 
-# Brief Intro
-Tags: ___Easy___, ___Medium___, ___Hard___, ___DP___, ___Tree___, ___BFS___, ___DFS___, ___Backtracking___, ___System Design___, ___Bit Manipulation___
+# 387. First Unique Character in a String
+Tags: __Easy__, __Microsoft__, __Amazon__, __Bloomberg__
 
-If you want, you can put a brief Intro to the question.
+Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+
+**Examples:**
+```
+s = "leetcode"
+return 0.
+
+s = "loveleetcode",
+return 2.
+```
+**Note**: You may assume the string contain only lowercase letters.
+
 
 ## Source
 [comment]: <> (brief intro to the source of this question. e.g.,)
-* from CCI page xxxx.
-* from [leetcode qxxx](https://www.google.com)
+* from [leetcode 387](https://leetcode.com/problems/first-unique-character-in-a-string)
 
 ## Complexity/Analysis
 The optimal solution can achieve ___O(N)___ time and ___O(N)___ space. Or another solution and achieve xxxxxxx.
